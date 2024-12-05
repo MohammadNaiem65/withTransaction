@@ -1,0 +1,31 @@
+{
+    "name": "withtransaction",
+    "version": "1.0.0",
+    "description": "withTransaction is a mongoose supportive library which can be used to handle mongoose transaction.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MohammadNaiem65/withTransaction.git"
+    },
+    "keywords": [
+        "@mongoose/withTransaction",
+        "mongoose",
+        "withTransaction",
+        "transaction",
+        "mongoose",
+        "transaction"
+    ],
+    "author": "Md Rifat Ahmed",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/MohammadNaiem65/withTransaction/issues"
+    },
+    "homepage": "https://github.com/MohammadNaiem65/withTransaction#readme",
+    "dependencies": {
+        "mongoose": "^8.8.3"
+    }
+}
